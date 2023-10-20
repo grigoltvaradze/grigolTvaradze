@@ -1,5 +1,5 @@
-﻿
-int[] numbers = {645 , 14314, 8741 };
+﻿//პირველი ნაწილი
+int[] numbers = { 645, 14314, 8741 };
 
 int index = 1;
 
@@ -23,3 +23,5 @@ static int CalculateDigitSum(int[] array, int index)
 
     return sum;
 }
+
+
